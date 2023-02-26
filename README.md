@@ -29,6 +29,7 @@
 
 - I compiled the latest release version software using Visual-Studio-2022.
 - This version of the firmware should be the JTAG-HS2 version.
+- FT232HL-Download-tool/Eep.bin is FT232 firmware, if you have newer firmware,you should rename file as Eep.bin
 
 ## Hardware view
 
@@ -36,18 +37,18 @@
 
   ![Image text](https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/Schematic_Xilinx_jtag_smt2.png)
 
-- My JTAG-SMT2 PCB
+- My JTAG-SMT2 PCB(two-layer board)
 
-  ![Image text](https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2-PCB.png)
-  ![Image text](https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2-PCB1.png)
+  <img src="https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2-PCB.png" width="400px"/>
+  <img src="https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2-PCB1.png" width="400px"/>
 
 - My JTAG-SMT2 Hardware(two-layer board)
 
-  ![Image text](https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2.jpg)
+  <img src="https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2.jpg"/>
 
 - On-board test
 
-  ![Image text](https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT-USE.jpg)
+  <img src="https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT-USE.jpg" width="500px"/>
 
 ## Reference project
 
