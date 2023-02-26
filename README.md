@@ -39,8 +39,8 @@
 
 - My JTAG-SMT2 PCB(two-layer board)
 
-  <img src="https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2-PCB.png" width="400px"/>
-  <img src="https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2-PCB1.png" width="400px"/>
+  <img src="https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2-PCB.png" width="250px"/>
+  <img src="https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2-PCB1.png" width="250px"/>
 
 - My JTAG-SMT2 Hardware(two-layer board)
 
