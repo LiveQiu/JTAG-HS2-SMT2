@@ -33,8 +33,21 @@
 ## Hardware view
 
 - My JTAG-SMT2 Schematic
+
+  ![Image text](https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/Schematic_Xilinx_jtag_smt2.png)
+
+- My JTAG-SMT2 PCB
+
+  ![Image text](https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2-PCB.png)
+  ![Image text](https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2-PCB1.png)
+
 - My JTAG-SMT2 Hardware(two-layer board)
+
+  ![Image text](https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT2.jpg)
+
 - On-board test
+
+  ![Image text](https://raw.githubusercontent.com/LiveQiu/JTAG-HS2-SMT2/main/JTAG-SMT2-img/JTAG-SMT-USE.jpg)
 
 ## Reference project
 
