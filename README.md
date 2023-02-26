@@ -27,6 +27,8 @@
 
 ## Note
 
+- I added the gerber file for JTAG-HS3 found online, But I don't know if they will work. It is not recommended that you use it directly.
+- I won't open source the gerber file for JTAG-SMT2 for the time being.
 - I compiled the latest release version software using Visual-Studio-2022.
 - This version of the firmware should be the JTAG-HS2 version.
 - FT232HL-Download-tool/Eep.bin is FT232 firmware, if you have newer firmware,you should rename file as Eep.bin
@@ -62,32 +64,42 @@
 ```text
 +---
 |   README.md
-|
+|   
 +---FT232HL-Download-tool
 |   |   Eep.bin
 |   |   EEPROM.exe
 |   |   EEPROM.pdb
 |   |   FTD2XX_NET.dll
 |   |   FTD2XX_NET.xml
-|   |
+|   |   
 |   \---src
 |       |   EEPROM.csproj
 |       |   EEPROM.sln
 |       |   FTD2XX_NET.dll
 |       |   FTD2XX_NET.XML
 |       |   Program.cs
-|       |
+|       |   
 |       \---Properties
 |               AssemblyInfo.cs
-|
+|               
 +---FT232HL-drive
 |       CDM v2.12.28 WHQL Certified.rar
-|
+|       
 +---Hardware-Ref
-|       XM-JLINK-V1.0.0.PcbDoc
-|       XM-JLINK-V1.0.0.pdf
-|       XM-JLINK-V1.0.0.PrjPcb
-|       XM-JLINK-V1.0.0.SchDoc
-|
+|   |   hs3.schdoc
+|   |   XM-JLINK-V1.0.0.PcbDoc
+|   |   XM-JLINK-V1.0.0.pdf
+|   |   XM-JLINK-V1.0.0.PrjPcb
+|   |   XM-JLINK-V1.0.0.SchDoc
+|   |   
+|   \---others-gerber
+|           Gerber_HS3_2019-11-1.zip
+|           Gerber_HS3_20191028213928.zip
+|           
 \---JTAG-SMT2-img
+        JTAG-SMT-USE.jpg
+        JTAG-SMT2-PCB.png
+        JTAG-SMT2-PCB1.png
+        JTAG-SMT2.jpg
+        Schematic_Xilinx_jtag_smt2.png
 ```
