@@ -55,6 +55,8 @@
 ## Reference project
 
 - In this project, you need to customize the shape of the board. [JTAG-SMT2 Reference project](https://oshwhub.com/peyo/Xilinx_jtag_smt2_nc)
+- You can download firmware through Xilinx's reference documentation.[Vivado Design Suite User Guide Programming and Debugging](https://www.xilinx.com/support/documents/sw_manuals/xilinx2022_1/ug908-vivado-programming-debugging.pdf)
+- I referenced part of TerayTech's downloader project. [TT_Digilent_JTAG_HS2](https://github.com/TerayTech/TT_Digilent_JTAG_HS2)
 - Note: I only used a two-layer board to complete his design, and I realized the design of JTAG-SMT2 at a very low cost, and it can work stably, using components packaged in 0603, making it friendly.JLC can use the hole breaking process, which is friendly to production and does not require manual cutting of the board.
 
 ## Project structure
@@ -64,38 +66,38 @@
 ```text
 +---
 |   README.md
-|   
+|
 +---FT232HL-Download-tool
 |   |   Eep.bin
 |   |   EEPROM.exe
 |   |   EEPROM.pdb
 |   |   FTD2XX_NET.dll
 |   |   FTD2XX_NET.xml
-|   |   
+|   |
 |   \---src
 |       |   EEPROM.csproj
 |       |   EEPROM.sln
 |       |   FTD2XX_NET.dll
 |       |   FTD2XX_NET.XML
 |       |   Program.cs
-|       |   
+|       |
 |       \---Properties
 |               AssemblyInfo.cs
-|               
+|
 +---FT232HL-drive
 |       CDM v2.12.28 WHQL Certified.rar
-|       
+|
 +---Hardware-Ref
 |   |   hs3.schdoc
 |   |   XM-JLINK-V1.0.0.PcbDoc
 |   |   XM-JLINK-V1.0.0.pdf
 |   |   XM-JLINK-V1.0.0.PrjPcb
 |   |   XM-JLINK-V1.0.0.SchDoc
-|   |   
+|   |
 |   \---others-gerber
 |           Gerber_HS3_2019-11-1.zip
 |           Gerber_HS3_20191028213928.zip
-|           
+|
 \---JTAG-SMT2-img
         JTAG-SMT-USE.jpg
         JTAG-SMT2-PCB.png
