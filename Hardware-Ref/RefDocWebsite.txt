@@ -1,3 +1,9 @@
+[Xilinx Tools Doc] https://www.xilinx.com/support/documents/sw_manuals/xilinx2022_1/ug908-vivado-programming-debugging.pdf
+
+[FT2232] https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html
+[FT2232] https://oshwhub.com/junlian/smt3_copy#P2
+[FT2232] https://dpoauwgwqsy2x.cloudfront.net/Download/TUL_PYNQ_Schematic_R12.pdf
+
 [FT4232] https://whycan.com/t_6570.html
 [FT4232] https://whycan.com/files/members/9311/vcu128_sch.pdf
 [FT4232] https://china.xilinx.com/member/forms/download/design-license.html?cid=3eb7e365-5378-461f-b8b0-bb3dad84eb4e&filename=xtp682-kria-k26-carrier-card-schematic.zip
